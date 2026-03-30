@@ -602,7 +602,7 @@ Déclenché lorsqu'un dispositif de pointage (généralement une souris) est dé
 
 ### **`mouseout`**
 
-Déclenché lorsqu'un dispositif de pointage (généralement une souris) quitte la couche de la carte.
+Déclenché lorsqu'un dispositif de pointage (généralement une souris) quitte le canevas de la carte.
 
 **Type** [`MapMouseEvent`](https://docs.mapbox.com/mapbox-gl-js/api/events/#mapmouseevent)
 
